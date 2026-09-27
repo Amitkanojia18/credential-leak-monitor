@@ -1,0 +1,3 @@
+New leaked credential dump for novashield.io users.
+Contains: admin@novashield.io:password123
+Also includes 400+ exposed accounts from internal breach.
